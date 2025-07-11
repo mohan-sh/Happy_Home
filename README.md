@@ -4,7 +4,7 @@ Welcome to **Happy Home** — a simple and clean construction product selling we
 
 ## 🔗 Live Demo
 
-[Click here to view the website](https://your-deployment-link.com)  
+[Click here to view the website](happy-home-psi.vercel.app)  
 *(Replace this with your live site link if hosted on GitHub Pages or Vercel)*
 
 ## 🛠️ Technologies Used
@@ -20,10 +20,6 @@ Welcome to **Happy Home** — a simple and clean construction product selling we
 - Clean UI for construction material browsing
 - Contact form section (optional)
 - Mobile-friendly design
-
-## 📸 Screenshots
-
-*(Add screenshots here if you have them)*
 
 ## 🚀 Getting Started
 
